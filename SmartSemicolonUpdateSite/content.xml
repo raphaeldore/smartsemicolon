@@ -6,8 +6,8 @@
     <property name='p2.timestamp' value='1229323935641'/>
   </properties>
   <references size='2'>
-    <repository url='http://smartsemicolon.googlecode.com/svn/trunk/SmartSemicolonUpdateSite/site.xml' type='1' options='0'/>
-    <repository url='http://smartsemicolon.googlecode.com/svn/trunk/SmartSemicolonUpdateSite/site.xml' type='0' options='0'/>
+    <repository url='https://raw.githubusercontent.com/raphaeldore/smartsemicolon/master/SmartSemicolonUpdateSite/site.xml' type='1' options='0'/>
+    <repository url='https://raw.githubusercontent.com/raphaeldore/smartsemicolon/master/SmartSemicolonUpdateSite/site.xml' type='0' options='0'/>
   </references>
   <units size='14'>
     <unit id='SmartSemicolonFeature.feature.group' version='1.0.0' singleton='false'>
@@ -464,7 +464,7 @@
       <properties size='4'>
         <property name='org.eclipse.equinox.p2.name' value='Smart Semicolon Feature'/>
         <property name='org.eclipse.equinox.p2.description' value='Smart Semicolon'/>
-        <property name='org.eclipse.equinox.p2.description.url' value='http://code.google.com/p/smartsemicolon/'/>
+        <property name='org.eclipse.equinox.p2.description.url' value='https://github.com/raphaeldore/smartsemicolon'/>
         <property name='org.eclipse.equinox.p2.provider' value='Sandip V. Chitale'/>
       </properties>
       <provides size='3'>
@@ -497,7 +497,7 @@
       <properties size='5'>
         <property name='org.eclipse.equinox.p2.name' value='Smart Semicolon Feature'/>
         <property name='org.eclipse.equinox.p2.description' value='Smart Semicolon'/>
-        <property name='org.eclipse.equinox.p2.description.url' value='http://code.google.com/p/smartsemicolon/'/>
+        <property name='org.eclipse.equinox.p2.description.url' value='https://github.com/raphaeldore/smartsemicolon'/>
         <property name='org.eclipse.equinox.p2.provider' value='Sandip V. Chitale'/>
         <property name='org.eclipse.equinox.p2.type.group' value='true'/>
       </properties>
